@@ -12,7 +12,7 @@ tips to working with git and github
 - having a regular routine, and,
 - being aware of my surroundings.
 
-
+___ 
 
 - Dhruv Dole
 - I find answers about the world.
