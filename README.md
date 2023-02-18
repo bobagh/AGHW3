@@ -11,3 +11,10 @@ tips to working with git and github
 - Staying ontop of things everyday. 
 - having a regular routine, and,
 - being aware of my surroundings.
+
+___ 
+
+- Dhruv Dole
+- I find answers about the world.
+- Writing code, linear algebra homework, reading textbooks.
+- MS Office ToDo, Outlook, Git
